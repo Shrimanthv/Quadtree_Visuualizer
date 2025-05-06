@@ -1,0 +1,1 @@
+🧩 Quadtree Image Compression Visualizer
